@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Document</title>
+  </head>
+
+  <body>
+   <table border="1">
+    <caption>The Table</caption>
+    <thead>
+      <tr>
+        <td>First Name</td>
+        <td>Second Name</td>
+        <td>Marks</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mariam</td>
+        <td>Tarek</td>
+        <td>100</td>
+      </tr>
+      <tr>
+        <td>Nada</td>
+        <td>Ali</td>
+        <td>80</td>
+      </tr>
+      <tr>
+        <td>Alaa</td>
+        <td>Magdy</td>
+        <td>60</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <td colspan="2"> Total</td>
+      <td>240</td>
+    </tfoot>
+   </table>
+
+   <hr />
+
+   <p>The &lt;Div&gt; is very important </p>
+
+   <hr />
+
+  <audio controls autoplay>
+    <source src="https://surahquran.com/mp3/maher/67.html" type="audio/mpeg">
+   
+  </audio>
+  
+  <hr/>
+  
+  <video controls autoplay width="1000" height="600">
+    <source src="https://www.vecteezy.com/video/12932507-arashiyama-bamboo-grove-which-is-a-natural-forest-of-bamboo-in-the-kyoto-area-of-japan-arashiyama-bamboo-grove-is-a-popular-tourist-spot-in-kyoto" type="video/mpeg" >
+
+  </video>
+
+  </body>
+
+
+
+</html>
